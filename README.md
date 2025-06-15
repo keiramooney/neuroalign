@@ -16,4 +16,5 @@ This repo contains my summer project investigating neural alignment techniques b
 - `logs/` 
 
 ## Note
-This work is exploratory and may be extended into multimodal LLM alignment research.
+Because it is still in the early stages, the structure and code is subject to change as I learn more throughout the process. 
+
